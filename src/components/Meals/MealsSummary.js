@@ -9,7 +9,7 @@ const MealsSummary = () => {
       </p>
       <p>
         Each meal is carefully put together to support many diet plans, with the
-        ability to add or subract anything to your order.
+        ability to add or subract anything on your order.
       </p>
     </section>
   );

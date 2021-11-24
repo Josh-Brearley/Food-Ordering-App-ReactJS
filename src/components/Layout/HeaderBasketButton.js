@@ -7,7 +7,7 @@ const HeaderBasketButton = (props) => {
       <span className={classes.icon}>
         <CartIcon />
       </span>
-      <span> Your Basket</span>
+      <span>Basket</span>
       <span className={classes.badge}>3</span>
     </button>
   );
